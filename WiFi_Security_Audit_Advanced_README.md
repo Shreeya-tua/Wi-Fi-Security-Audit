@@ -268,7 +268,7 @@ GUI crashes when running Kismet on low RAM	Ran in terminal mode and limited scan
 
 # 🙏 Acknowledgment
 
-Special thanks to "https://github.com/official-biswadeb941" for special guidance and strategic input throughout this lab simulation. His expertise in offensive security, enumeration tactics, and adversarial tooling played a vital role in this project’s successful execution.
+Special thanks to [Biswadeb Mukherjee](https://github.com/official-biswadeb941) for special guidance and strategic input throughout this lab simulation. His expertise in offensive security, enumeration tactics, and adversarial tooling played a vital role in this project’s successful execution.
 
 ---
 
