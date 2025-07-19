@@ -323,8 +323,8 @@ wifi-security-audit/
 # 👤 Authors
 
 ** 
-   1) Shreeya Sarkar-3rd year ECE 
-   2) Debasmita Kar- 3rd year ECE
+   1) Shreeya Sarkar-3rd year ECE (Narula Insititute of Technology)
+   2) Debasmita Kar- 3rd year ECE (Narula Insititute of Technology)
 
 
 | Name                 | GitHub Username       | Responsibilities                                                                                          |
